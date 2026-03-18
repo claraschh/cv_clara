@@ -1,13 +1,23 @@
 [
-  {
-      "grouping":"2025 : Licence professionnelle Techniques rédactionnelles et développements numériques",
-      "skills":[ "Maquette technique","Technologie et langage web (HTML, CSS, GIT)","Outils de la création numérique (création d'un podcast, montage vidéo, Epub)", "Correction ortho-typographique","Droit du livre (papier et numérique)"]
-  },{
-      "grouping":"2021-2024 : Licence de Lettres Modernes",
-      "skills":[ "Linguistique (grammaire, morphologie, syntaxe, phonétique)","Littérature comparée (anglaise : Beloved et le Chant des revenants, cinématographique : Ran et Le roi Lear)","Littérature ultra-contemporaine (Modiano et Echenoz)","Ateliers d'écriture (élaboration de nouvelles)","Les nouvelles approches littéraires (Bande dessinée, science-fiction, polar)"]
+    {
+      "grouping":"2026-2027 : MASTER 1 Édition imprimée et numérique",
+      "skills":[ "Université Toulouse Jean-Jaurès"]
   },
   {
-      "grouping":"2021 : Baccalauréat mention Bien",
-      "skills":[ "Humanité, littérature, philosophie","LLCE espagnol","Histoire géographie, géopolitique, science politique"]
+      "grouping":"2025-2026 : Licence professionnelle Techniques rédactionnelles et développements numériques",
+      "skills":[ "Maquette technique",
+      "Technologie et langage web (HTML, CSS, GIT)","Outils de la création numérique (création d'un podcast, montage vidéo, Epub)", "Correction ortho-typographique","Droit du livre (papier et numérique)"]
+  },{
+      "grouping":"2023-2025 : BTS édition",
+      "skills":[ "Fabrication du livre","Maitrise de la suite Adobe","Mise en pages","Économie et marketing du livre","Projet professionnel éditorial"]
+  },
+  {
+      "grouping":"2021-2021 : Licence de droit",
+      "skills":[ "Université Grenoble Alpes","fdd","Histoire géographie, géopolitique, science politique"]
+  },
+  {
+      "grouping":"2021-2022 :baccalauréat",
+      "skills":[ "Sciences économiques et sociales","Histoire géographie, géopolitique, science politique","Option Droit et Grands Enjeux du Monde Contemporain"]
   }
+
 ]

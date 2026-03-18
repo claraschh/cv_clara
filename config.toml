@@ -1,4 +1,4 @@
-title = "Loïs Lamoussière CV"
+title = "Clara Scherrer  CV"
 baseURL = "https://loislamous.github.io/myresume/"
 theme = "hugo-resume"
 languageCode = "en-us"
@@ -9,19 +9,19 @@ enableGitInfo = false
 
 [params]
 title = "Recherche d'alternance"
-address = "Toulouse 31500"
-email = "loislamous@gmail.com"
+address = "Toulouse 31000"
+email = "clara-scherrer@orange.fr"
 favicon = "/favicon.ico"
-firstName = "Loïs"
-lastName = "Lamoussière"
-phone = "07 88 73 74 50"
-profileImage = "img/PhotoCV.jpg"
+firstName = "Clara"
+lastName = "Scherrer"
+phone = "06 65 58 03 34"
+profileImage = "img/photo_cv_clara.jpg"
 showQr = false
 showContact = false
 showBoards  = false
 showCertifications = false
 showSocializations = false
-sections = ["skills","publications","creations","contributions"]
+sections = ["skills","publications","creations"]
 
 
 [params.google]
@@ -57,3 +57,8 @@ home = ["HTML", "JSON"]
 
 [taxonomies]
 tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
