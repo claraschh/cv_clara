@@ -1,5 +1,5 @@
 title = "Clara Scherrer  CV"
-baseURL = "https://claraschh.github.io/cv_clara/#page-top"
+baseURL = "https://claraschh.github.io/cv_clara/"
 theme = "hugo-resume"
 languageCode = "fr-fr"
 PygmentsCodeFences = true
