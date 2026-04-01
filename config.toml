@@ -22,7 +22,7 @@ showContact = false
 showBoards  = false
 showCertifications = false
 showSocializations = false
-sections = ["skills","publications","creations"]
+sections = ["skills","publications","creations",]
 
 
 [params.google]
